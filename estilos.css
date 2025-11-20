@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+    padding: 6%;
+}
+h1{
+    background-color: white;
+    width: max-content;
+    height: max-content;
+    border-radius: 9px;
+    margin-right: auto;
+
+}
+img{
+    width: max-content;
+    height: max-content;
+    border: solid white;
+    border-radius: 7%;
+}
+.pagar{
+    background-color: black;
+    color: white;
+    border-radius: 10%;
+}
+
+article{
+    padding: 2%;
+    width: 500px;
+    height: 500px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 6px;
+}
